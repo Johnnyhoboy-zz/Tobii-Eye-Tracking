@@ -58,7 +58,7 @@ Furthermore, I believe the use of gaze heat maps can greatly benefit THD marketi
 
 ## Helpful Links
 
-The link to my Github repo with all the code is located [here](https://github.homedepot.com/Johnnyhoboy/Tobii-Eye-Tracking) as well as at the top of the page. 
+The link to see my full project description is [here](https://johnnyhoboy.github.io/portfolio-thd-eye-tracking.html) on my website. 
 
 Please note that there is a large amount of setup needed for this project to work:
 1) A Tobii 4C Eye-tracking device with drivers installed from [here](https://gaming.tobii.com/getstarted/)
