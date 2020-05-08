@@ -1,5 +1,6 @@
 ## Overview
-
+The link to see my full project description is [here](https://johnnyhoboy.github.io/portfolio-thd-eye-tracking.html) on my website. 
+<br><br>
 When customers are shopping through THD.com, we get a lot of insight from clickstream data and page focus heat maps, but we don’t have any of this information in our physical store locations. It could be beneficial to have heat maps of our customers' shopping behaviors when they're browsing through the aisles. 
 
 Gaze heat maps are visualizations which show the general distribution of gaze points. They are typically displayed as a color gradient overlay on the presented image or stimulus. The red, yellow, and green colors represent in descending order the amount of gaze points that were directed towards parts of the image.
